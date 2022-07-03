@@ -1,0 +1,194 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "author": "Masai",
+      "no_of_chapters": 6,
+      "cover_photo": "data:image/webp;base64,UklGRrwDAABXRUJQVlA4ILADAABQFgCdASqWAJYAPpFIn0ylpCKiIVQJGLASCWlu4XVGuCQ6fxfQu+XsnFoLfx2pP8lvRXIf6H/vrZTMu8fv0t7BYar3Yh3J17sQ7k692Idyde7Dg4ie/4hK4/HAj/xJIDgxSJP2+OhwSiAdFWLL2PcbtOEAyyGV8SzHGyxKf9UtWXT+RORrShKOQeBEMySe43hwUjY1wStcNmHUFbusi+W+aKZ3imPndZYmOFTSd2Idyde7EO5OvdiHcjwAAP7/jnQAJG549e9kmpIR4bNuDQY8EBDd/KrZNvrOpUPBo6M1c2Gm4qepSeg5GsKTXXCUJ6l2QNBBpxlXHa6S91eaKPwiocq0e8hGwVqIX93fvGKZn2OEmt11lsdN7MWTA1cfPXB4ap/lyxd38R41KeARQRn/JbIbINLpt8eEi8YgdFUSp4GorH/R+/l3bh4UyN7TT4l16Os/JrRrfPSDwHeaep3RvFxAcE9bcjv79yADI36sDCrKw4ryk6NvO7vnMqW86+Fe+K8bk0f12h93BndUSvx9ztLEAfwOCGosFLR8YFapTtt09J9IoJFi+/2daRkPh9/39fTK/fZvkWwem1qizmdpZbuT33jquoYmwiotNi1wqbdwDceC/82V2f1VipeXD8Aa5MYcdnHld+D716f+XwzMkjfmnjBd8U18ElOBtBR39q8IwmEonP3eYQL1aCCJqRZbVcKHvcWT9sW5RvorZ01AXMM6jUee8XdGGSWf7oOnEn9X/bcxzMm0CxngDDEilBcTaO4f4Wp1Zm1v5vGHG6Q7naZ29P8nRo0EGKz778HtNUUJ9h5OHS3srT3wF7MvuClPtufXemlB5sXkDdaRq/U2L9KeBjkUu4DsACGawH2YqJGvY/znBsCiAAkahm8Z6VG+ZM++4EML4GE5baNRlOtg37zw56cfn/eT7YCUktRd+/sgYf6/49cNxtRn1Ajfcajr2NPGqwqTGJQmx6anCczXKdzH2xStvgxFAot0F+TbP6MUQvy3AVOHg1GjqZTIa08mxRTJI317MgYN1//1HU9+HpLmiyGXz53dy1zRtuZrMPa3rVdIapXUu3+tJ7Urxj+avVZO3Q8VzY/7PTq3zEv4a53o/loj9CnGTENWEIVINADFeo2M/VY1NoFrO3orVc7+Itn0oe8kLLev7+k4vzyeKqCoq0pjIaodpYtF3CnoCzE5X4ybrAI37Wcs9wReYksnTlRZpzeqzMa95aUGvdFOaPV9UVZu2d23NacAAAAAAA==",
+      "book_name": "Full-Stack Web Development",
+      "category": "Novel",
+      "release_year": 2019,
+      "chapters": [
+        {
+          "name": "HTML",
+          "pages": 25
+        },
+        {
+          "name": "CSS",
+          "pages": 20
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "author": "Masai",
+      "no_of_chapters": 6,
+      "cover_photo": "data:image/webp;base64,UklGRrwDAABXRUJQVlA4ILADAABQFgCdASqWAJYAPpFIn0ylpCKiIVQJGLASCWlu4XVGuCQ6fxfQu+XsnFoLfx2pP8lvRXIf6H/vrZTMu8fv0t7BYar3Yh3J17sQ7k692Idyde7Dg4ie/4hK4/HAj/xJIDgxSJP2+OhwSiAdFWLL2PcbtOEAyyGV8SzHGyxKf9UtWXT+RORrShKOQeBEMySe43hwUjY1wStcNmHUFbusi+W+aKZ3imPndZYmOFTSd2Idyde7EO5OvdiHcjwAAP7/jnQAJG549e9kmpIR4bNuDQY8EBDd/KrZNvrOpUPBo6M1c2Gm4qepSeg5GsKTXXCUJ6l2QNBBpxlXHa6S91eaKPwiocq0e8hGwVqIX93fvGKZn2OEmt11lsdN7MWTA1cfPXB4ap/lyxd38R41KeARQRn/JbIbINLpt8eEi8YgdFUSp4GorH/R+/l3bh4UyN7TT4l16Os/JrRrfPSDwHeaep3RvFxAcE9bcjv79yADI36sDCrKw4ryk6NvO7vnMqW86+Fe+K8bk0f12h93BndUSvx9ztLEAfwOCGosFLR8YFapTtt09J9IoJFi+/2daRkPh9/39fTK/fZvkWwem1qizmdpZbuT33jquoYmwiotNi1wqbdwDceC/82V2f1VipeXD8Aa5MYcdnHld+D716f+XwzMkjfmnjBd8U18ElOBtBR39q8IwmEonP3eYQL1aCCJqRZbVcKHvcWT9sW5RvorZ01AXMM6jUee8XdGGSWf7oOnEn9X/bcxzMm0CxngDDEilBcTaO4f4Wp1Zm1v5vGHG6Q7naZ29P8nRo0EGKz778HtNUUJ9h5OHS3srT3wF7MvuClPtufXemlB5sXkDdaRq/U2L9KeBjkUu4DsACGawH2YqJGvY/znBsCiAAkahm8Z6VG+ZM++4EML4GE5baNRlOtg37zw56cfn/eT7YCUktRd+/sgYf6/49cNxtRn1Ajfcajr2NPGqwqTGJQmx6anCczXKdzH2xStvgxFAot0F+TbP6MUQvy3AVOHg1GjqZTIa08mxRTJI317MgYN1//1HU9+HpLmiyGXz53dy1zRtuZrMPa3rVdIapXUu3+tJ7Urxj+avVZO3Q8VzY/7PTq3zEv4a53o/loj9CnGTENWEIVINADFeo2M/VY1NoFrO3orVc7+Itn0oe8kLLev7+k4vzyeKqCoq0pjIaodpYtF3CnoCzE5X4ybrAI37Wcs9wReYksnTlRZpzeqzMa95aUGvdFOaPV9UVZu2d23NacAAAAAAA==",
+      "book_name": "asd",
+      "category": "Science_Fiction",
+      "release_year": 2020,
+      "chapters": [
+        {
+          "name": "HTML",
+          "pages": 25
+        },
+        {
+          "name": "CSS",
+          "pages": 20
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "author": "Masai",
+      "no_of_chapters": 6,
+      "cover_photo": "data:image/webp;base64,UklGRrwDAABXRUJQVlA4ILADAABQFgCdASqWAJYAPpFIn0ylpCKiIVQJGLASCWlu4XVGuCQ6fxfQu+XsnFoLfx2pP8lvRXIf6H/vrZTMu8fv0t7BYar3Yh3J17sQ7k692Idyde7Dg4ie/4hK4/HAj/xJIDgxSJP2+OhwSiAdFWLL2PcbtOEAyyGV8SzHGyxKf9UtWXT+RORrShKOQeBEMySe43hwUjY1wStcNmHUFbusi+W+aKZ3imPndZYmOFTSd2Idyde7EO5OvdiHcjwAAP7/jnQAJG549e9kmpIR4bNuDQY8EBDd/KrZNvrOpUPBo6M1c2Gm4qepSeg5GsKTXXCUJ6l2QNBBpxlXHa6S91eaKPwiocq0e8hGwVqIX93fvGKZn2OEmt11lsdN7MWTA1cfPXB4ap/lyxd38R41KeARQRn/JbIbINLpt8eEi8YgdFUSp4GorH/R+/l3bh4UyN7TT4l16Os/JrRrfPSDwHeaep3RvFxAcE9bcjv79yADI36sDCrKw4ryk6NvO7vnMqW86+Fe+K8bk0f12h93BndUSvx9ztLEAfwOCGosFLR8YFapTtt09J9IoJFi+/2daRkPh9/39fTK/fZvkWwem1qizmdpZbuT33jquoYmwiotNi1wqbdwDceC/82V2f1VipeXD8Aa5MYcdnHld+D716f+XwzMkjfmnjBd8U18ElOBtBR39q8IwmEonP3eYQL1aCCJqRZbVcKHvcWT9sW5RvorZ01AXMM6jUee8XdGGSWf7oOnEn9X/bcxzMm0CxngDDEilBcTaO4f4Wp1Zm1v5vGHG6Q7naZ29P8nRo0EGKz778HtNUUJ9h5OHS3srT3wF7MvuClPtufXemlB5sXkDdaRq/U2L9KeBjkUu4DsACGawH2YqJGvY/znBsCiAAkahm8Z6VG+ZM++4EML4GE5baNRlOtg37zw56cfn/eT7YCUktRd+/sgYf6/49cNxtRn1Ajfcajr2NPGqwqTGJQmx6anCczXKdzH2xStvgxFAot0F+TbP6MUQvy3AVOHg1GjqZTIa08mxRTJI317MgYN1//1HU9+HpLmiyGXz53dy1zRtuZrMPa3rVdIapXUu3+tJ7Urxj+avVZO3Q8VzY/7PTq3zEv4a53o/loj9CnGTENWEIVINADFeo2M/VY1NoFrO3orVc7+Itn0oe8kLLev7+k4vzyeKqCoq0pjIaodpYtF3CnoCzE5X4ybrAI37Wcs9wReYksnTlRZpzeqzMa95aUGvdFOaPV9UVZu2d23NacAAAAAAA==",
+      "book_name": "Full-Stack Web Development",
+      "category": "Novel",
+      "release_year": 2021,
+      "chapters": [
+        {
+          "name": "HTML",
+          "pages": 25
+        },
+        {
+          "name": "CSS",
+          "pages": 20
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "author": "Masai",
+      "no_of_chapters": 6,
+      "cover_photo": "data:image/webp;base64,UklGRrwDAABXRUJQVlA4ILADAABQFgCdASqWAJYAPpFIn0ylpCKiIVQJGLASCWlu4XVGuCQ6fxfQu+XsnFoLfx2pP8lvRXIf6H/vrZTMu8fv0t7BYar3Yh3J17sQ7k692Idyde7Dg4ie/4hK4/HAj/xJIDgxSJP2+OhwSiAdFWLL2PcbtOEAyyGV8SzHGyxKf9UtWXT+RORrShKOQeBEMySe43hwUjY1wStcNmHUFbusi+W+aKZ3imPndZYmOFTSd2Idyde7EO5OvdiHcjwAAP7/jnQAJG549e9kmpIR4bNuDQY8EBDd/KrZNvrOpUPBo6M1c2Gm4qepSeg5GsKTXXCUJ6l2QNBBpxlXHa6S91eaKPwiocq0e8hGwVqIX93fvGKZn2OEmt11lsdN7MWTA1cfPXB4ap/lyxd38R41KeARQRn/JbIbINLpt8eEi8YgdFUSp4GorH/R+/l3bh4UyN7TT4l16Os/JrRrfPSDwHeaep3RvFxAcE9bcjv79yADI36sDCrKw4ryk6NvO7vnMqW86+Fe+K8bk0f12h93BndUSvx9ztLEAfwOCGosFLR8YFapTtt09J9IoJFi+/2daRkPh9/39fTK/fZvkWwem1qizmdpZbuT33jquoYmwiotNi1wqbdwDceC/82V2f1VipeXD8Aa5MYcdnHld+D716f+XwzMkjfmnjBd8U18ElOBtBR39q8IwmEonP3eYQL1aCCJqRZbVcKHvcWT9sW5RvorZ01AXMM6jUee8XdGGSWf7oOnEn9X/bcxzMm0CxngDDEilBcTaO4f4Wp1Zm1v5vGHG6Q7naZ29P8nRo0EGKz778HtNUUJ9h5OHS3srT3wF7MvuClPtufXemlB5sXkDdaRq/U2L9KeBjkUu4DsACGawH2YqJGvY/znBsCiAAkahm8Z6VG+ZM++4EML4GE5baNRlOtg37zw56cfn/eT7YCUktRd+/sgYf6/49cNxtRn1Ajfcajr2NPGqwqTGJQmx6anCczXKdzH2xStvgxFAot0F+TbP6MUQvy3AVOHg1GjqZTIa08mxRTJI317MgYN1//1HU9+HpLmiyGXz53dy1zRtuZrMPa3rVdIapXUu3+tJ7Urxj+avVZO3Q8VzY/7PTq3zEv4a53o/loj9CnGTENWEIVINADFeo2M/VY1NoFrO3orVc7+Itn0oe8kLLev7+k4vzyeKqCoq0pjIaodpYtF3CnoCzE5X4ybrAI37Wcs9wReYksnTlRZpzeqzMa95aUGvdFOaPV9UVZu2d23NacAAAAAAA==",
+      "book_name": "Full-Stack Web Development",
+      "category": "Science_Fiction",
+      "release_year": 2022,
+      "chapters": [
+        {
+          "name": "HTML",
+          "pages": 25
+        },
+        {
+          "name": "CSS",
+          "pages": 20
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "author": "asd",
+      "no_of_chapters": 6,
+      "cover_photo": "data:image/webp;base64,UklGRrwDAABXRUJQVlA4ILADAABQFgCdASqWAJYAPpFIn0ylpCKiIVQJGLASCWlu4XVGuCQ6fxfQu+XsnFoLfx2pP8lvRXIf6H/vrZTMu8fv0t7BYar3Yh3J17sQ7k692Idyde7Dg4ie/4hK4/HAj/xJIDgxSJP2+OhwSiAdFWLL2PcbtOEAyyGV8SzHGyxKf9UtWXT+RORrShKOQeBEMySe43hwUjY1wStcNmHUFbusi+W+aKZ3imPndZYmOFTSd2Idyde7EO5OvdiHcjwAAP7/jnQAJG549e9kmpIR4bNuDQY8EBDd/KrZNvrOpUPBo6M1c2Gm4qepSeg5GsKTXXCUJ6l2QNBBpxlXHa6S91eaKPwiocq0e8hGwVqIX93fvGKZn2OEmt11lsdN7MWTA1cfPXB4ap/lyxd38R41KeARQRn/JbIbINLpt8eEi8YgdFUSp4GorH/R+/l3bh4UyN7TT4l16Os/JrRrfPSDwHeaep3RvFxAcE9bcjv79yADI36sDCrKw4ryk6NvO7vnMqW86+Fe+K8bk0f12h93BndUSvx9ztLEAfwOCGosFLR8YFapTtt09J9IoJFi+/2daRkPh9/39fTK/fZvkWwem1qizmdpZbuT33jquoYmwiotNi1wqbdwDceC/82V2f1VipeXD8Aa5MYcdnHld+D716f+XwzMkjfmnjBd8U18ElOBtBR39q8IwmEonP3eYQL1aCCJqRZbVcKHvcWT9sW5RvorZ01AXMM6jUee8XdGGSWf7oOnEn9X/bcxzMm0CxngDDEilBcTaO4f4Wp1Zm1v5vGHG6Q7naZ29P8nRo0EGKz778HtNUUJ9h5OHS3srT3wF7MvuClPtufXemlB5sXkDdaRq/U2L9KeBjkUu4DsACGawH2YqJGvY/znBsCiAAkahm8Z6VG+ZM++4EML4GE5baNRlOtg37zw56cfn/eT7YCUktRd+/sgYf6/49cNxtRn1Ajfcajr2NPGqwqTGJQmx6anCczXKdzH2xStvgxFAot0F+TbP6MUQvy3AVOHg1GjqZTIa08mxRTJI317MgYN1//1HU9+HpLmiyGXz53dy1zRtuZrMPa3rVdIapXUu3+tJ7Urxj+avVZO3Q8VzY/7PTq3zEv4a53o/loj9CnGTENWEIVINADFeo2M/VY1NoFrO3orVc7+Itn0oe8kLLev7+k4vzyeKqCoq0pjIaodpYtF3CnoCzE5X4ybrAI37Wcs9wReYksnTlRZpzeqzMa95aUGvdFOaPV9UVZu2d23NacAAAAAAA==",
+      "book_name": "23",
+      "category": "Thriller",
+      "release_year": 2018,
+      "chapters": [
+        {
+          "name": "HTML",
+          "pages": 25
+        },
+        {
+          "name": "CSS",
+          "pages": 20
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "author": "Masai",
+      "no_of_chapters": 6,
+      "cover_photo": "data:image/webp;base64,UklGRrwDAABXRUJQVlA4ILADAABQFgCdASqWAJYAPpFIn0ylpCKiIVQJGLASCWlu4XVGuCQ6fxfQu+XsnFoLfx2pP8lvRXIf6H/vrZTMu8fv0t7BYar3Yh3J17sQ7k692Idyde7Dg4ie/4hK4/HAj/xJIDgxSJP2+OhwSiAdFWLL2PcbtOEAyyGV8SzHGyxKf9UtWXT+RORrShKOQeBEMySe43hwUjY1wStcNmHUFbusi+W+aKZ3imPndZYmOFTSd2Idyde7EO5OvdiHcjwAAP7/jnQAJG549e9kmpIR4bNuDQY8EBDd/KrZNvrOpUPBo6M1c2Gm4qepSeg5GsKTXXCUJ6l2QNBBpxlXHa6S91eaKPwiocq0e8hGwVqIX93fvGKZn2OEmt11lsdN7MWTA1cfPXB4ap/lyxd38R41KeARQRn/JbIbINLpt8eEi8YgdFUSp4GorH/R+/l3bh4UyN7TT4l16Os/JrRrfPSDwHeaep3RvFxAcE9bcjv79yADI36sDCrKw4ryk6NvO7vnMqW86+Fe+K8bk0f12h93BndUSvx9ztLEAfwOCGosFLR8YFapTtt09J9IoJFi+/2daRkPh9/39fTK/fZvkWwem1qizmdpZbuT33jquoYmwiotNi1wqbdwDceC/82V2f1VipeXD8Aa5MYcdnHld+D716f+XwzMkjfmnjBd8U18ElOBtBR39q8IwmEonP3eYQL1aCCJqRZbVcKHvcWT9sW5RvorZ01AXMM6jUee8XdGGSWf7oOnEn9X/bcxzMm0CxngDDEilBcTaO4f4Wp1Zm1v5vGHG6Q7naZ29P8nRo0EGKz778HtNUUJ9h5OHS3srT3wF7MvuClPtufXemlB5sXkDdaRq/U2L9KeBjkUu4DsACGawH2YqJGvY/znBsCiAAkahm8Z6VG+ZM++4EML4GE5baNRlOtg37zw56cfn/eT7YCUktRd+/sgYf6/49cNxtRn1Ajfcajr2NPGqwqTGJQmx6anCczXKdzH2xStvgxFAot0F+TbP6MUQvy3AVOHg1GjqZTIa08mxRTJI317MgYN1//1HU9+HpLmiyGXz53dy1zRtuZrMPa3rVdIapXUu3+tJ7Urxj+avVZO3Q8VzY/7PTq3zEv4a53o/loj9CnGTENWEIVINADFeo2M/VY1NoFrO3orVc7+Itn0oe8kLLev7+k4vzyeKqCoq0pjIaodpYtF3CnoCzE5X4ybrAI37Wcs9wReYksnTlRZpzeqzMa95aUGvdFOaPV9UVZu2d23NacAAAAAAA==",
+      "book_name": "arjun",
+      "category": "Thriller",
+      "release_year": 2017,
+      "chapters": [
+        {
+          "name": "HTML",
+          "pages": 25
+        },
+        {
+          "name": "CSS",
+          "pages": 20
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "author": "Masai",
+      "no_of_chapters": 6,
+      "cover_photo": "data:image/webp;base64,UklGRrwDAABXRUJQVlA4ILADAABQFgCdASqWAJYAPpFIn0ylpCKiIVQJGLASCWlu4XVGuCQ6fxfQu+XsnFoLfx2pP8lvRXIf6H/vrZTMu8fv0t7BYar3Yh3J17sQ7k692Idyde7Dg4ie/4hK4/HAj/xJIDgxSJP2+OhwSiAdFWLL2PcbtOEAyyGV8SzHGyxKf9UtWXT+RORrShKOQeBEMySe43hwUjY1wStcNmHUFbusi+W+aKZ3imPndZYmOFTSd2Idyde7EO5OvdiHcjwAAP7/jnQAJG549e9kmpIR4bNuDQY8EBDd/KrZNvrOpUPBo6M1c2Gm4qepSeg5GsKTXXCUJ6l2QNBBpxlXHa6S91eaKPwiocq0e8hGwVqIX93fvGKZn2OEmt11lsdN7MWTA1cfPXB4ap/lyxd38R41KeARQRn/JbIbINLpt8eEi8YgdFUSp4GorH/R+/l3bh4UyN7TT4l16Os/JrRrfPSDwHeaep3RvFxAcE9bcjv79yADI36sDCrKw4ryk6NvO7vnMqW86+Fe+K8bk0f12h93BndUSvx9ztLEAfwOCGosFLR8YFapTtt09J9IoJFi+/2daRkPh9/39fTK/fZvkWwem1qizmdpZbuT33jquoYmwiotNi1wqbdwDceC/82V2f1VipeXD8Aa5MYcdnHld+D716f+XwzMkjfmnjBd8U18ElOBtBR39q8IwmEonP3eYQL1aCCJqRZbVcKHvcWT9sW5RvorZ01AXMM6jUee8XdGGSWf7oOnEn9X/bcxzMm0CxngDDEilBcTaO4f4Wp1Zm1v5vGHG6Q7naZ29P8nRo0EGKz778HtNUUJ9h5OHS3srT3wF7MvuClPtufXemlB5sXkDdaRq/U2L9KeBjkUu4DsACGawH2YqJGvY/znBsCiAAkahm8Z6VG+ZM++4EML4GE5baNRlOtg37zw56cfn/eT7YCUktRd+/sgYf6/49cNxtRn1Ajfcajr2NPGqwqTGJQmx6anCczXKdzH2xStvgxFAot0F+TbP6MUQvy3AVOHg1GjqZTIa08mxRTJI317MgYN1//1HU9+HpLmiyGXz53dy1zRtuZrMPa3rVdIapXUu3+tJ7Urxj+avVZO3Q8VzY/7PTq3zEv4a53o/loj9CnGTENWEIVINADFeo2M/VY1NoFrO3orVc7+Itn0oe8kLLev7+k4vzyeKqCoq0pjIaodpYtF3CnoCzE5X4ybrAI37Wcs9wReYksnTlRZpzeqzMa95aUGvdFOaPV9UVZu2d23NacAAAAAAA==",
+      "book_name": "Full-Stack Web Development",
+      "category": "Novel",
+      "release_year": 2016,
+      "chapters": [
+        {
+          "name": "HTML",
+          "pages": 25
+        },
+        {
+          "name": "CSS",
+          "pages": 20
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "author": "Masai",
+      "no_of_chapters": 6,
+      "cover_photo": "data:image/webp;base64,UklGRrwDAABXRUJQVlA4ILADAABQFgCdASqWAJYAPpFIn0ylpCKiIVQJGLASCWlu4XVGuCQ6fxfQu+XsnFoLfx2pP8lvRXIf6H/vrZTMu8fv0t7BYar3Yh3J17sQ7k692Idyde7Dg4ie/4hK4/HAj/xJIDgxSJP2+OhwSiAdFWLL2PcbtOEAyyGV8SzHGyxKf9UtWXT+RORrShKOQeBEMySe43hwUjY1wStcNmHUFbusi+W+aKZ3imPndZYmOFTSd2Idyde7EO5OvdiHcjwAAP7/jnQAJG549e9kmpIR4bNuDQY8EBDd/KrZNvrOpUPBo6M1c2Gm4qepSeg5GsKTXXCUJ6l2QNBBpxlXHa6S91eaKPwiocq0e8hGwVqIX93fvGKZn2OEmt11lsdN7MWTA1cfPXB4ap/lyxd38R41KeARQRn/JbIbINLpt8eEi8YgdFUSp4GorH/R+/l3bh4UyN7TT4l16Os/JrRrfPSDwHeaep3RvFxAcE9bcjv79yADI36sDCrKw4ryk6NvO7vnMqW86+Fe+K8bk0f12h93BndUSvx9ztLEAfwOCGosFLR8YFapTtt09J9IoJFi+/2daRkPh9/39fTK/fZvkWwem1qizmdpZbuT33jquoYmwiotNi1wqbdwDceC/82V2f1VipeXD8Aa5MYcdnHld+D716f+XwzMkjfmnjBd8U18ElOBtBR39q8IwmEonP3eYQL1aCCJqRZbVcKHvcWT9sW5RvorZ01AXMM6jUee8XdGGSWf7oOnEn9X/bcxzMm0CxngDDEilBcTaO4f4Wp1Zm1v5vGHG6Q7naZ29P8nRo0EGKz778HtNUUJ9h5OHS3srT3wF7MvuClPtufXemlB5sXkDdaRq/U2L9KeBjkUu4DsACGawH2YqJGvY/znBsCiAAkahm8Z6VG+ZM++4EML4GE5baNRlOtg37zw56cfn/eT7YCUktRd+/sgYf6/49cNxtRn1Ajfcajr2NPGqwqTGJQmx6anCczXKdzH2xStvgxFAot0F+TbP6MUQvy3AVOHg1GjqZTIa08mxRTJI317MgYN1//1HU9+HpLmiyGXz53dy1zRtuZrMPa3rVdIapXUu3+tJ7Urxj+avVZO3Q8VzY/7PTq3zEv4a53o/loj9CnGTENWEIVINADFeo2M/VY1NoFrO3orVc7+Itn0oe8kLLev7+k4vzyeKqCoq0pjIaodpYtF3CnoCzE5X4ybrAI37Wcs9wReYksnTlRZpzeqzMa95aUGvdFOaPV9UVZu2d23NacAAAAAAA==",
+      "book_name": "Full-Stack Web Development",
+      "category": "Science_Fiction",
+      "release_year": 2015,
+      "chapters": [
+        {
+          "name": "HTML",
+          "pages": 25
+        },
+        {
+          "name": "CSS",
+          "pages": 20
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "author": "Masai",
+      "no_of_chapters": 6,
+      "cover_photo": "data:image/webp;base64,UklGRrwDAABXRUJQVlA4ILADAABQFgCdASqWAJYAPpFIn0ylpCKiIVQJGLASCWlu4XVGuCQ6fxfQu+XsnFoLfx2pP8lvRXIf6H/vrZTMu8fv0t7BYar3Yh3J17sQ7k692Idyde7Dg4ie/4hK4/HAj/xJIDgxSJP2+OhwSiAdFWLL2PcbtOEAyyGV8SzHGyxKf9UtWXT+RORrShKOQeBEMySe43hwUjY1wStcNmHUFbusi+W+aKZ3imPndZYmOFTSd2Idyde7EO5OvdiHcjwAAP7/jnQAJG549e9kmpIR4bNuDQY8EBDd/KrZNvrOpUPBo6M1c2Gm4qepSeg5GsKTXXCUJ6l2QNBBpxlXHa6S91eaKPwiocq0e8hGwVqIX93fvGKZn2OEmt11lsdN7MWTA1cfPXB4ap/lyxd38R41KeARQRn/JbIbINLpt8eEi8YgdFUSp4GorH/R+/l3bh4UyN7TT4l16Os/JrRrfPSDwHeaep3RvFxAcE9bcjv79yADI36sDCrKw4ryk6NvO7vnMqW86+Fe+K8bk0f12h93BndUSvx9ztLEAfwOCGosFLR8YFapTtt09J9IoJFi+/2daRkPh9/39fTK/fZvkWwem1qizmdpZbuT33jquoYmwiotNi1wqbdwDceC/82V2f1VipeXD8Aa5MYcdnHld+D716f+XwzMkjfmnjBd8U18ElOBtBR39q8IwmEonP3eYQL1aCCJqRZbVcKHvcWT9sW5RvorZ01AXMM6jUee8XdGGSWf7oOnEn9X/bcxzMm0CxngDDEilBcTaO4f4Wp1Zm1v5vGHG6Q7naZ29P8nRo0EGKz778HtNUUJ9h5OHS3srT3wF7MvuClPtufXemlB5sXkDdaRq/U2L9KeBjkUu4DsACGawH2YqJGvY/znBsCiAAkahm8Z6VG+ZM++4EML4GE5baNRlOtg37zw56cfn/eT7YCUktRd+/sgYf6/49cNxtRn1Ajfcajr2NPGqwqTGJQmx6anCczXKdzH2xStvgxFAot0F+TbP6MUQvy3AVOHg1GjqZTIa08mxRTJI317MgYN1//1HU9+HpLmiyGXz53dy1zRtuZrMPa3rVdIapXUu3+tJ7Urxj+avVZO3Q8VzY/7PTq3zEv4a53o/loj9CnGTENWEIVINADFeo2M/VY1NoFrO3orVc7+Itn0oe8kLLev7+k4vzyeKqCoq0pjIaodpYtF3CnoCzE5X4ybrAI37Wcs9wReYksnTlRZpzeqzMa95aUGvdFOaPV9UVZu2d23NacAAAAAAA==",
+      "book_name": "Full-Stack Web Development",
+      "category": "Motivational",
+      "release_year": 2014,
+      "chapters": [
+        {
+          "name": "HTML",
+          "pages": 25
+        },
+        {
+          "name": "CSS",
+          "pages": 20
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "author": "Masai",
+      "no_of_chapters": 6,
+      "cover_photo": "data:image/webp;base64,UklGRrwDAABXRUJQVlA4ILADAABQFgCdASqWAJYAPpFIn0ylpCKiIVQJGLASCWlu4XVGuCQ6fxfQu+XsnFoLfx2pP8lvRXIf6H/vrZTMu8fv0t7BYar3Yh3J17sQ7k692Idyde7Dg4ie/4hK4/HAj/xJIDgxSJP2+OhwSiAdFWLL2PcbtOEAyyGV8SzHGyxKf9UtWXT+RORrShKOQeBEMySe43hwUjY1wStcNmHUFbusi+W+aKZ3imPndZYmOFTSd2Idyde7EO5OvdiHcjwAAP7/jnQAJG549e9kmpIR4bNuDQY8EBDd/KrZNvrOpUPBo6M1c2Gm4qepSeg5GsKTXXCUJ6l2QNBBpxlXHa6S91eaKPwiocq0e8hGwVqIX93fvGKZn2OEmt11lsdN7MWTA1cfPXB4ap/lyxd38R41KeARQRn/JbIbINLpt8eEi8YgdFUSp4GorH/R+/l3bh4UyN7TT4l16Os/JrRrfPSDwHeaep3RvFxAcE9bcjv79yADI36sDCrKw4ryk6NvO7vnMqW86+Fe+K8bk0f12h93BndUSvx9ztLEAfwOCGosFLR8YFapTtt09J9IoJFi+/2daRkPh9/39fTK/fZvkWwem1qizmdpZbuT33jquoYmwiotNi1wqbdwDceC/82V2f1VipeXD8Aa5MYcdnHld+D716f+XwzMkjfmnjBd8U18ElOBtBR39q8IwmEonP3eYQL1aCCJqRZbVcKHvcWT9sW5RvorZ01AXMM6jUee8XdGGSWf7oOnEn9X/bcxzMm0CxngDDEilBcTaO4f4Wp1Zm1v5vGHG6Q7naZ29P8nRo0EGKz778HtNUUJ9h5OHS3srT3wF7MvuClPtufXemlB5sXkDdaRq/U2L9KeBjkUu4DsACGawH2YqJGvY/znBsCiAAkahm8Z6VG+ZM++4EML4GE5baNRlOtg37zw56cfn/eT7YCUktRd+/sgYf6/49cNxtRn1Ajfcajr2NPGqwqTGJQmx6anCczXKdzH2xStvgxFAot0F+TbP6MUQvy3AVOHg1GjqZTIa08mxRTJI317MgYN1//1HU9+HpLmiyGXz53dy1zRtuZrMPa3rVdIapXUu3+tJ7Urxj+avVZO3Q8VzY/7PTq3zEv4a53o/loj9CnGTENWEIVINADFeo2M/VY1NoFrO3orVc7+Itn0oe8kLLev7+k4vzyeKqCoq0pjIaodpYtF3CnoCzE5X4ybrAI37Wcs9wReYksnTlRZpzeqzMa95aUGvdFOaPV9UVZu2d23NacAAAAAAA==",
+      "book_name": "Full-Stack Web Development",
+      "category": "Motivational",
+      "release_year": 2013,
+      "chapters": [
+        {
+          "name": "HTML",
+          "pages": 25
+        },
+        {
+          "name": "CSS",
+          "pages": 20
+        }
+      ]
+    }
+  ]
+}
